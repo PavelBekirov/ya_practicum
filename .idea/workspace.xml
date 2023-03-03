@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c13e16-16f2-4db4-9c08-63c1ab2b6d71" name="Changes" comment="time series project start">
-      <change beforePath="$PROJECT_DIR$/.idea/datasets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datasets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/662f489d-74fb-4681-b82d-4a04f6a47e78.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/662f489d-74fb-4681-b82d-4a04f6a47e78.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn_error.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/time_left.tsv" afterDir="false" />
-    </list>
+    <list default="true" id="90c13e16-16f2-4db4-9c08-63c1ab2b6d71" name="Changes" comment="time series project first revision rename" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +47,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="practice" />
                       </list>
                     </value>
                   </entry>
@@ -63,6 +61,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="time series project start" />
-    <option name="LAST_COMMIT_MESSAGE" value="time series project start" />
+    <MESSAGE value="time series project first revision" />
+    <MESSAGE value="time series project first revision rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="time series project first revision rename" />
   </component>
 </project>
