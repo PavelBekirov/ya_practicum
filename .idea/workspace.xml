@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c13e16-16f2-4db4-9c08-63c1ab2b6d71" name="Changes" comment="time series project start">
-      <change beforePath="$PROJECT_DIR$/.idea/datasets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datasets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="90c13e16-16f2-4db4-9c08-63c1ab2b6d71" name="Changes" comment="time series project first revision rename">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/662f489d-74fb-4681-b82d-4a04f6a47e78.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/662f489d-74fb-4681-b82d-4a04f6a47e78.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
@@ -18,6 +16,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="notebook:///Users/pavelbekirov/DataspellProjects/ya_practicum/662f489d-74fb-4681-b82d-4a04f6a47e78.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/pavelbekirov/DataspellProjects/ya_practicum",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
