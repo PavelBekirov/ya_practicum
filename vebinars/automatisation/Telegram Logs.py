@@ -11,7 +11,3 @@ def make_telegram_notifier(
 
 send = make_telegram_notifier()
 send("Hou are you?")
-
-
-send('Super')#%%
-#%%
